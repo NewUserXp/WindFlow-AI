@@ -123,6 +123,7 @@ That's all limits. No daily, weekly or monthly quota.
 
 - [Our Rules](RULES.md)
 - [Get Started](STARTUSING.md)
+- [Support us](SUPPORTUS.md) Support us by donating or something to keep up the project.
 
 # Info
 Our system loads data from **availability.yml** file from this project, this shows if models are available. Our servers are binded to this repo, delievering latest model uptime information in **availability.yml**.
