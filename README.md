@@ -40,3 +40,40 @@
 | Alibaba    | Qwen 3 Coder 480B  | 2 months ago |
 | Alibaba    | Qwen 2.5 Coder     | 2 months ago |
 | Alibaba    | Qwen 2.5 **(Deprecated)** | 2 months ago |
+
+# Deprecated Models
+There are **deprecated models**. These models are **not available** anymore. Reason: **They are old outdated models.**
+**NOT ALL DEPRECATED MODELS ARE INCLUDED IN THE TABLE!**
+
+### DEPRECATED MODELS:
+- **Qwen 2.5**
+- **GPT 3.5 Turbo**
+- **GPT 3 Turbo**
+- **Step 3 Flash**
+- **Gemini 1.5 Pro**
+- **Gemini 1.5 Flash**
+- **Gemini 2 Flash**
+- **Gemini 2 Pro**
+- **GPT-2**
+
+# Is this legitimate?
+**WindFlow AI** is fully legitimate and provides **unlimited free** access to premium ai models.
+It is **legitimate**. Try it out yourself!
+Just go to our website, and start using the API!
+**(No complex sign ups or credit card required)**. Start using **instantly**.
+
+# Are there Rate Limits?
+As we mention we are giving **unlimited free** access to premium and open-source ai models, but:
+We also have some rate limits in place to prevent abuse.
+**TPM** = Output tokens per minute
+**RPM** = API requests per minute
+That's all limits. No daily, weekly or monthly quota.
+
+| Model Group | TPM | RPM |
+|----------|----------|----------|
+| Google Gemini  | 250k  | 25  |
+| WindFlow AI  | 2.5M  | 35  |
+| OpenAI ChatGPT | 500k | 15 |
+| Anthropic Claude | 1M | 30 |
+| DeepSeek | - | ~ 50-100 |
+| Alibaba Qwen | - | 30 |
