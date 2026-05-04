@@ -16,5 +16,5 @@
 | Anthropic  | Claude Sonnet 3.5 | 4 months ago |
 | Anthropic  | Claude Opus 3  | 5 months ago |
 | Anthropic  | Claude Haiku 3 | 5 months ago |
-|----------|----------|----------|
+|            |                |              |
 | OpenAI
