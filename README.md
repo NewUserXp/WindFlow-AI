@@ -68,6 +68,9 @@ We also have some rate limits in place to prevent abuse.
 **TPM** = Output tokens per minute
 **RPM** = API requests per minute
 That's all limits. No daily, weekly or monthly quota.
+**~** means that the rate limit is not guaranteed and may change at anytime (likely based on server load).
+
+### Last Updated Rate Limits: 2026 - 5th May 17:00
 
 | Model Group | TPM | RPM |
 |----------|----------|----------|
@@ -77,3 +80,4 @@ That's all limits. No daily, weekly or monthly quota.
 | Anthropic Claude | 1M | 30 |
 | DeepSeek | - | ~ 50-100 |
 | Alibaba Qwen | - | 30 |
+| Zhipu GLM | ~ 300k | ~ 10-20 |
