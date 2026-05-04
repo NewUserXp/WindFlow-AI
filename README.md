@@ -81,3 +81,8 @@ That's all limits. No daily, weekly or monthly quota.
 | DeepSeek | - | ~ 50-100 |
 | Alibaba Qwen | - | 30 |
 | Zhipu GLM | ~ 300k | ~ 10-20 |
+
+# More Links / Things to explore:
+
+- [Our Rules](RULES.md)
+- [Get Started](STARTUSING.md)
