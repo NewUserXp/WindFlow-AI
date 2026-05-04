@@ -3,7 +3,10 @@
 - **Free** access to **AI models** and **API**
 - **OpenAI-Compatible** API
 
+
+
 # Available Models
+### These values don't get updated that often (every 2-4 weeks).
 | **Provider** | **Model** | **Added ...** |
 |----------|----------|----------|
 | Anthropic  | Claude Opus 4.7  | 8 days ago  |
@@ -40,6 +43,23 @@
 | Alibaba    | Qwen 3 Coder 480B  | 2 months ago |
 | Alibaba    | Qwen 2.5 Coder     | 2 months ago |
 | Alibaba    | Qwen 2.5 **(Deprecated)** | 2 months ago |
+|     x      |        x        |       x       |
+| WindFlow   | WF 3 Pro | 2 days ago |
+| WindFlow   | WF 3 Flash High | 2 days ago |
+| WindFlow   | WF 3 Flash Medium | 2 days ago |
+| WindFlow   | WF 3 Flash Low | 2 days ago |
+| WindFlow   | WF 2.9 Pro | 3 weeks ago |
+| WindFlow   | WF 2.9 Flash | 3 weeks ago |
+| WindFlow   | WF 2.8 Pro | 1 month ago |
+| WindFlow   | WF 2.8 Flash | 1 month ago |
+| WindFlow   | WF 2.7 Flash | 2 months ago |
+| WindFlow   | WF 2.6 Flash | 3 months ago |
+| WindFlow   | WF 2.5 Pro   | 4 months ago |
+| WindFlow   | WF 2.5 Coder | 4 months ago |
+| WindFlow   | WF 2.5 Flash | 4 months ago |
+| WindFlow   | WF 2.5 Flash Lite | 4 months ago |
+| WindFlow   | WF 2 Thinking | 5 months ago |
+|     x      |        x        |       x       |
 
 # Deprecated Models
 There are **deprecated models**. These models are **not available** anymore. Reason: **They are old outdated models.**
