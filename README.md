@@ -60,6 +60,10 @@
 | WindFlow   | WF 2.5 Flash Lite | 4 months ago |
 | WindFlow   | WF 2 Thinking | 5 months ago |
 |     x      |        x        |       x       |
+| StepFun AI | Step 3.5 Flash | 2 months ago |
+|     x      |        x        |       x       |
+| NVIDIA     | NVIDIA Ising 35B | 2 weeks ago |
+| NVIDIA     | Nemotron 80B | 2 weeks ago
 
 # Deprecated Models
 There are **deprecated models**. These models are **not available** anymore. Reason: **They are old outdated models.**
