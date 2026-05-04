@@ -70,6 +70,13 @@
 | DeepSeek   | DeepSeek V4 Flash | 3 days ago |
 | DeepSeek   | DeepSeek V3.2 | 3 weeks ago |
 | DeepSeek   | DeepSeek R1 **(Depr. soon)** | 3 months ago |
+|     x      |        x        |       x       |
+| Moonshot   | Kimi K2.6 | 3 days ago |
+| Moonshot   | Kimi K2.5 | 2 months ago |
+| Moonshot   | Kimi K2 Thinking **(Depr. soon)** | 4 months ago |
+| Moonshot   | Kimi K2 Instruct | 4 months ago |
+|     x      |        x        |       x       |
+| MistralAI  | Mistral Large 3 675B | VERY NEWLY |
 
 # Deprecated Models
 There are **deprecated models**. These models are **not available** anymore. Reason: **They are old outdated models.**
