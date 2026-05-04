@@ -4,7 +4,7 @@
 - **OpenAI-Compatible** API
 
 # Available Models
-| Column 1 | Column 2 | Column 3 |
+| **Provider** | **Model** | **Added ...** |
 |----------|----------|----------|
-| Row 1 A  | Row 1 B  | Row 1 C  |
+| Anthropic  | Claude Opus 4.7  | 8 days ago  |
 | Row 2 A  | Row 2 B  | Row 2 C  |
