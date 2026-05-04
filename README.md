@@ -2,6 +2,7 @@
 - **Unlimited** access to AI models
 - **Free** access to **AI models** and **API**
 - **OpenAI-Compatible** API
+- **Truly unlimited**. Not like **puter.js** or other free AI apis. PUTER.JS: The user pays for what he is using, the puter.js approach is not **good**. People will know that your just searching **FREE AI APIS**. But with our **secure, free and unlimited** tool you can fully hide that your not paying a single cent! ($0.00) and no credit card is required.
 
 
 
@@ -64,6 +65,11 @@
 |     x      |        x        |       x       |
 | NVIDIA     | NVIDIA Ising 35B | 2 weeks ago |
 | NVIDIA     | Nemotron 80B | 2 weeks ago
+|     x      |        x        |       x       |
+| DeepSeek   | DeepSeek V4 Pro | 3 days ago |
+| DeepSeek   | DeepSeek V4 Flash | 3 days ago |
+| DeepSeek   | DeepSeek V3.2 | 3 weeks ago |
+| DeepSeek   | DeepSeek R1 **(Depr. soon)** | 3 months ago |
 
 # Deprecated Models
 There are **deprecated models**. These models are **not available** anymore. Reason: **They are old outdated models.**
