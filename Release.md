@@ -15,7 +15,7 @@ To access our API use: api.betawindflow.net/v1 and type as model: "anthropic/cla
 
 ### API Key Creation?
 Go to our website (legacy.windflow.ai) and go to API Keys. Click **Create API Key** to create an API Key.
-- **NOTE:** The API key is stored on your IP address to prevent abuse. We're working on an account system and are about to release it in 2026 January, February or March!
+- **NOTE:** The API key is stored on your IP address to prevent abuse. We're working on an account system and are about to release it in 2025 January, February or March!
 
 ## Exact Rate Limits:
 - 5 requests per minute
