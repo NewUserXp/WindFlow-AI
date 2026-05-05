@@ -4,7 +4,7 @@ models:
   - name: "Gemini 3.1 Flash Lite Preview"
     status: "Available"
   - name: "Gemini 3 Flash Preview (High Think)"
-    status: "503: Server is currently overloaded"
+    status: "Available"
   - name: "Gemini 3 Flash Preview (Medium Think)"
     status: "503: Server is currently overloaded"
   - name: "Gemini 3 Flash Preview (Low Think)"
