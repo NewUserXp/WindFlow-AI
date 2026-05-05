@@ -6,7 +6,7 @@ We started as a small company (1 year ago). We we're giving **Free Claude 3** AI
 - End Money of Year 2025: **$1049.23**
 
 - Start Money 2026: **$1049.23**
-- Latest: 6th May Money: **$12,137.50**
+- Latest: 5th May Money: **$12,137.50**
 
 ### Thank you guys very much! Without you, we wouldn't even give Claude AI access for free and other AI models. Our plan is to reach ~ $20.000 so our servers don't get overloaded so fast making it possible for everyone to use it at ANYTIME. REALLY.
 
